@@ -19,8 +19,8 @@ app.set('views', path.join(__dirname, 'views'));
 const config = {
     user: 'azureuser',
     password: 'P@ssw0rdssss',
-    server: 'bingoone.database.windows.net',
-    database: 'sirsircost',
+    server: 'c0940002server.database.windows.net',
+    database: 'Week11db',
     options: {
         encrypt: true,
         enableArithAbort: true
